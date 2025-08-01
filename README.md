@@ -27,9 +27,6 @@ The ultimate objective is to empower the coffee shop's management to make data-d
 ## Dashboard
 <img width="1109" height="783" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/2734287b-5a1b-424e-b7e5-2c671c1d5866" />
 
-
-
-
 ## Business Insight
 Marketing: Launch targeted promotions for low-performing days (e.g., weekends or slow evenings).
 Menu Optimization: Focus on high-performing products and consider removing or improving low-performing ones.
