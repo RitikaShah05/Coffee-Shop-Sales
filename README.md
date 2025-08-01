@@ -1,6 +1,6 @@
 # Coffee Shop Sales Data Analysis (Using MySQL and Power BI)
 
-### Project Objective
+## Project Objective
 The ultimate objective is to empower the coffee shop's management to make data-driven decisions that can lead to increased revenue, improved operational efficiency, and a better understanding of their business performance.
 
 ## Dataset used 
