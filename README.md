@@ -3,7 +3,8 @@
 ## Project Objective
 The ultimate objective is to empower the coffee shop's management to make data-driven decisions that can lead to increased revenue, improved operational efficiency, and a better understanding of their business performance.
 
-## Dataset used <a href=" ">View Dashboard</a>
+## Dataset used 
+-<ahref="https://github.com/RitikaShah05/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.csv">Dataset</a>
 
 ## Questions (KPIs)
 - Calculate Total Sales, Total Orders and Total Quantity Sold
