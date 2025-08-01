@@ -25,7 +25,7 @@ The ultimate objective is to empower the coffee shop's management to make data-d
 - Create interactive dashboard using Power BI
 
 ## Dashboard
-
+![](https://github.com/RitikaShah05/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Project.pbit)
 
 
 
