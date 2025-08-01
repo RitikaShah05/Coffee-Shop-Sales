@@ -29,7 +29,5 @@ The ultimate objective is to empower the coffee shop's management to make data-d
 
 ## Business Insight
 Marketing: Launch targeted promotions for low-performing days (e.g., weekends or slow evenings).
-
 Menu Optimization: Focus on high-performing products and consider removing or improving low-performing ones.
-
 Staffing: Adjust staff schedules to ensure adequate coverage during peak hours.
