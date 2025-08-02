@@ -5,6 +5,7 @@ The ultimate objective is to empower the coffee shop's management to make data-d
 
 ## Dataset used 
 Data Range: January 2023 - June 2023
+
 -<a href="https://github.com/RitikaShah05/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.csv">Dataset</a>
 
 ## Questions (KPIs)
