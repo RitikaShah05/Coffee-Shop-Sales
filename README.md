@@ -4,6 +4,7 @@
 The ultimate objective is to empower the coffee shop's management to make data-driven decisions that can lead to increased revenue, improved operational efficiency, and a better understanding of their business performance.
 
 ## Dataset used 
+Data Range: January 2023 - June 2023
 -<a href="https://github.com/RitikaShah05/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales.csv">Dataset</a>
 
 ## Questions (KPIs)
@@ -25,6 +26,7 @@ The ultimate objective is to empower the coffee shop's management to make data-d
 - Create interactive dashboard using Power BI
 
 ## Dashboard
+
 <img width="1109" height="783" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/2734287b-5a1b-424e-b7e5-2c671c1d5866" />
 
 ## Business Insight
