@@ -37,3 +37,8 @@ Marketing: Launch targeted promotions for low-performing days (e.g., weekends or
 Menu Optimization: Focus on high-performing products and consider removing or improving low-performing ones.
 
 Staffing: Adjust staff schedules to ensure adequate coverage during peak hours.
+
+## Author
+Ritika Shah
+Accounting and Finance Student | Aspiring Data Analyst
+[www.linkedin.com/in/ritika-shah-294896259]
