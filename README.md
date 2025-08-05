@@ -36,10 +36,7 @@ Data Range: January 2023 - June 2023
 
 ## Dashboard
 
-The dashboard is only shown in a snapshot below. To view the interactive report/dashboard, open the file **Coffee Shop Sales Project.pbit**
-
-<img width="1109" height="783" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/2734287b-5a1b-424e-b7e5-2c671c1d5866" />
-
+![Dashboard Image](https://github.com/RitikaShah05/Coffee-Shop-Sales/blob/main/Snapshot%20of%20Dashboard.png)
 
 ## Business Insight
 
